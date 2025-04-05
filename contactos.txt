@@ -1,0 +1,10 @@
+Carlos Perez,612345678,carlosperez@gmail.com
+María Gonzalez,613456789,mariagonzalez@yahoo.com
+Luis Fernandez,614567890,luisfernandez@hotmail.com
+Ana Martinez,615678901,anamartinez@gmail.com
+Javier Lopez,616789012,javierlopez@yahoo.com
+Lucía Rodriguez,617890123,luciarodriguez@hotmail.com
+Pedro Sanchez,618901234,pedrosanchez@gmail.com
+Laura Ramirez,619012345,lauraramirez@yahoo.com
+Miguel Torres,620123456,migueltorres@hotmail.com
+Elena Castro,elenacastro@gmail.com
