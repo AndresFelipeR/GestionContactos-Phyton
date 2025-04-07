@@ -4,7 +4,7 @@ from Contacto import Contacto
 
 class GestionContacto:
     
-    def __init__(self,archivo="Modulo2_ejercicio/contactos.txt"):
+    def __init__(self,archivo="contactos.txt"):
         self.contactos = []
         self.archivo = archivo
         self.cargar_contactos()
