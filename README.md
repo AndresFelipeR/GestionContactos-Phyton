@@ -35,5 +35,6 @@ Este proyecto implementa un sistema de gestión de contactos en Python. El siste
 3. Contacto.py: Define la estructura de un contacto.
 4. contactos.txt: Archivo donde se guardan los contactos registrados.
 
-## Este Proyecto se realiza como practica en el Curso de Formación Avanzada en Backend: Python, Flask y Django
+## Poe que se realiza
+ Este Proyecto se realiza como practica en el Curso de Formación Avanzada en Backend: Python, Flask y Django
 en el modulo 2
